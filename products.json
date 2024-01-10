@@ -1,0 +1,36 @@
+[
+    {
+        "name": "iphone",
+        "price": 154,
+        "featured": true,
+        "company":"Apple"
+    },
+    {
+        "name": "phone",
+        "price": 1540,
+        "company":"Samsung"
+    },
+    {
+        "name": "laptop",
+        "price": 1804,
+        "featured": true,
+        "company":"Apple"
+    },
+    {
+        "name": "laptop",
+        "price": 17534,
+        "company":"Hp"
+    },
+    {
+        "name": "phone",
+        "price": 10954,
+        "featured": true,
+        "company":"Mi"
+    },
+    {
+        "name": "trimmer",
+        "price": 1854,
+        "featured": true,
+        "company":"Realme"
+    }
+]
